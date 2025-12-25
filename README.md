@@ -1,6 +1,3 @@
-# digital-image-processing-game
-Interactive educational game for learning Digital Image Processing through gameplay
-
 # 🎮 DIP Guessing Game
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
